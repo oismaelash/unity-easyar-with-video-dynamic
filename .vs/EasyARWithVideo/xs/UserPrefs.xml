@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2B5AF701-0447-DF83-A13B-A9D8A51A6139}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EasyAR/Scripts/ImageTargetBehaviour.cs">
+    <Files>
+      <File FileName="Assets/EasyAR/Scripts/ImageTargetBehaviour.cs" Line="14" Column="6" />
+      <File FileName="Assets/_Project/Scripts/AppManager.cs" Line="17" Column="6" />
+      <File FileName="Assets/_Project/Scripts/Constants.cs" Line="7" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
